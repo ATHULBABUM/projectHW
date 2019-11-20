@@ -1,0 +1,90 @@
+.navbar-custom{
+    background-color: rgb(97, 201, 102);
+
+}
+.nav-item{
+    margin-left: 20%;
+    
+}
+.nav-link{
+color: white;
+}
+.j1{ background-color: rgba(110, 7, 136, 0.658);
+     padding-top: 0%;
+     padding-bottom: 0%
+     
+}
+.j2{margin-top: 1.5%;
+    margin-bottom:4%;
+    background-color: rgba(100, 60, 22, 0.952);
+    padding-top: 1%;
+
+    
+    
+     }
+.j3{margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:0%;
+    background-color: rgba(32, 189, 116, 0.363);
+    padding-top: 1%;
+    padding-bottom: 0.5%
+}
+.j4{
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom:4%;
+    background-color: rgba(32, 189, 116, 0.363);
+    padding-top: 1%;
+}
+
+ .lib{
+       color:white ;
+       margin-left:8%;
+       margin-bottom: 4%;
+       margin-top  :  8%
+
+ }
+ 
+ 
+    .sub img{
+    
+        width:80% ;
+       height: 80%;
+        
+ }
+   
+    
+    .main{
+        background-color: white ;
+        padding-left: 0%;
+        margin-left: 2%;
+        margin-right:0%;
+        padding-right: 5%;
+        margin-top: -4.5%;
+        height:      50%;
+    }
+    .sub{
+    padding-top: 1%;
+    margin-left: 0.5%;    
+    margin-right: 0%;
+    padding-right: 0%;
+    padding-left: 1%;
+
+    }
+    .sub1{
+    
+        padding-left: 4.5%;
+        padding-bottom: 2%;
+    
+    }
+    .sub2{padding-top: 0%;
+          padding-left: 0.5%; 
+          padding-top: 0% ;
+          font-size:100%;
+        
+    }
+    
+    body{
+        background-color: rgba(222, 228, 226, 0.76);
+    }
+    
